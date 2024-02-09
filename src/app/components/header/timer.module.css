@@ -1,0 +1,12 @@
+.timer {
+  background-color: var(--c-surface-default-inverse);
+  padding: var(--sp-10) var(--sp-20);
+}
+
+.timerMessage {
+  color: var(--c-l-grey-05);
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+}
