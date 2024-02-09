@@ -1,7 +1,7 @@
 import styles from "./confirmAndPay.module.css";
 
 const ConfirmAndPay = () => {
-  return <section className={styles.confirmAndPay}></section>;
+  return <article className={styles.confirmAndPay}>Confirm & Pay</article>;
 };
 
 export default ConfirmAndPay;
